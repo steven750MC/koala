@@ -7,12 +7,14 @@ html {
 
 body {
   display: table-cell;
+  font-weight:bold;
   vertical-align: middle;
   font-family: 'Vazirmatn', sans-serif;
   background: linear-gradient(to right,white,#E2E2E2);
 }
 p{
     font-size: 2em;
+  font-weight:;
 }
 .total{
     font-weight: bold;
