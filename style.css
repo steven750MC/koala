@@ -41,10 +41,10 @@ h1 {
   color: green;
 }
 .name{
-   color:gray;
-   font-size: 4em;
+   color:black;
+   font-size: 3em;
 }
 .price{
-    color:black;
+    color:gray;
    font-size: 3em;
 }
